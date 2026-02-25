@@ -2,6 +2,7 @@
 The repository includes:
 - the unity project folder for a gamified NF task
 - the unity project folder for a standard NF task
+- two instructional videos explaining and showcasing the gamified and standard NF tasks
 - code for the analysis of BCI task accuracy and user experience data:
   * R: acc_bayesian_stats for a Bayesian t-test comparing accuracy in the gamified against the standard condition
   * R: Bayesian_ANOVA for a Bayesian 2x3 repeated measures ANOVA for a more detailed analysis of the differences in accuracy between the gamified and standard condition
